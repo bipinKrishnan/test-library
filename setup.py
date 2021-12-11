@@ -9,7 +9,7 @@ publish_version = (
 )
 
 setuptools.setup(
-    name="testing-library",
+    name="random-functions",
     version=publish_version,
     author="Bipin",
     author_email="test@test.com",
